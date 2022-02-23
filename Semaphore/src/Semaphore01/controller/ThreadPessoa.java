@@ -1,4 +1,4 @@
-package controller;
+package Semaphore01.controller;
 import java.util.concurrent.Semaphore;
 import java.util.Random;
 

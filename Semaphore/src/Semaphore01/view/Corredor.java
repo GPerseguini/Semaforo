@@ -1,6 +1,7 @@
-package view;
-import controller.ThreadPessoa;
+package Semaphore01.view;
+import Semaphore01.controller.ThreadPessoa;
 import java.util.concurrent.Semaphore;
+
 public class Corredor {
 
 	public static void main(String[] args) {
